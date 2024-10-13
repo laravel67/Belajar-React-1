@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "title":"Belajar Bahasa Pemprograman",
+        "tag":"Web Developer",
+        "date":"2024-09-23",
+        "body":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam veritatis ex laboriosam provident commodi nihil earum iusto, possimus doloribus rerum!",
+        "isNew":true
+    },
+    {
+        "id":2,
+        "title":"Belajar Bahasa Javascript",
+        "tag":"Javascript",
+        "date":"2024-09-24",
+        "body":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam veritatis ex laboriosam provident commodi nihil earum iusto, possimus doloribus rerum!",
+        "isNew":false
+    },
+    {
+        "id":3,
+        "title":"Belajar React Js",
+        "tag":"React Js",
+        "date":"2024-09-25",
+        "body":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam veritatis ex laboriosam provident commodi nihil earum iusto, possimus doloribus rerum!",
+        "isNew":false
+
+    },
+    {
+        "id":4,
+        "title":"Belajar Framework Js",
+        "tag":"React Js",
+        "date":"2024-09-26",
+        "body":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam veritatis ex laboriosam provident commodi nihil earum iusto, possimus doloribus rerum!",
+        "isNew":false
+    }
+]
